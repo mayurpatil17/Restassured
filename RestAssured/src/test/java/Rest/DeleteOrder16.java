@@ -1,3 +1,4 @@
+package Rest;
 
 import org.testng.annotations.Test;
 

@@ -1,3 +1,4 @@
+package Rest;
 import org.json.simple.JSONObject;
 import org.testng.annotations.Test;
 
